@@ -1,0 +1,155 @@
+2023-08-16 20:19:21.015 [info] Log level: Info
+2023-08-16 20:19:21.015 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2023-08-16 20:19:21.143 [info] Using git "2.41.0.windows.3" from "C:\Program Files\Git\cmd\git.exe"
+2023-08-16 20:19:45.879 [info] Log level: Info
+2023-08-16 20:19:45.880 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2023-08-16 20:19:45.880 [info] Using git "2.41.0.windows.3" from "C:\Program Files\Git\cmd\git.exe"
+2023-08-16 20:19:46.033 [info] > git rev-parse --show-toplevel [191ms]
+2023-08-16 20:19:46.033 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:19:46.265 [info] > git rev-parse --show-toplevel [163ms]
+2023-08-16 20:19:46.265 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:19:47.579 [info] > git rev-parse --show-toplevel [1258ms]
+2023-08-16 20:19:47.579 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:19:51.699 [info] > git rev-parse --show-toplevel [169ms]
+2023-08-16 20:19:51.699 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:19:58.891 [info] > git rev-parse --show-toplevel [235ms]
+2023-08-16 20:19:58.891 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:20:05.676 [info] > git rev-parse --show-toplevel [549ms]
+2023-08-16 20:20:05.683 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:20:32.156 [info] > git rev-parse --show-toplevel [273ms]
+2023-08-16 20:20:32.156 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:21:02.881 [info] > git rev-parse --show-toplevel [173ms]
+2023-08-16 20:21:02.881 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:21:26.666 [info] > git rev-parse --show-toplevel [136ms]
+2023-08-16 20:21:26.667 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:21:39.091 [info] > git rev-parse --show-toplevel [165ms]
+2023-08-16 20:21:39.091 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:21:41.288 [info] > git rev-parse --show-toplevel [139ms]
+2023-08-16 20:21:41.288 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:21:47.803 [info] > git rev-parse --show-toplevel [187ms]
+2023-08-16 20:21:47.803 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:21:52.057 [info] > git rev-parse --show-toplevel [257ms]
+2023-08-16 20:21:52.057 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:21:53.415 [info] > git rev-parse --show-toplevel [212ms]
+2023-08-16 20:21:53.415 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:22:10.768 [info] > git rev-parse --show-toplevel [157ms]
+2023-08-16 20:22:10.768 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:22:12.452 [info] > git rev-parse --show-toplevel [226ms]
+2023-08-16 20:22:12.452 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:22:15.088 [info] > git rev-parse --show-toplevel [156ms]
+2023-08-16 20:22:15.088 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:22:54.537 [info] > git rev-parse --show-toplevel [127ms]
+2023-08-16 20:22:54.537 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:25:27.631 [info] > git rev-parse --show-toplevel [125ms]
+2023-08-16 20:25:27.631 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:25:42.433 [info] > git rev-parse --show-toplevel [225ms]
+2023-08-16 20:25:42.433 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:26:07.835 [info] > git rev-parse --show-toplevel [146ms]
+2023-08-16 20:26:07.835 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:26:34.830 [info] > git rev-parse --show-toplevel [164ms]
+2023-08-16 20:26:34.830 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:26:50.851 [info] > git rev-parse --show-toplevel [277ms]
+2023-08-16 20:26:50.851 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-16 20:27:18.676 [info] > git init -b main [265ms]
+2023-08-16 20:27:18.886 [info] > git rev-parse --show-toplevel [139ms]
+2023-08-16 20:27:19.170 [info] > git rev-parse --git-dir --git-common-dir [242ms]
+2023-08-16 20:27:19.198 [info] Open repository: c:\Users\Jose Figueroa\Downloads\root-me-4-master
+2023-08-16 20:27:19.599 [info] No remotes found in the git config file.
+2023-08-16 20:27:19.608 [info] > git add -A -- . [309ms]
+2023-08-16 20:27:19.608 [info] warning: in the working copy of 'Cryptanalysis/Encoding-UU', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Cryptanalysis/File-Insecure-storage-1', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Cryptanalysis/File-PKZIP', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Cryptanalysis/Hash-Message-Digest-5', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Cryptanalysis/Hash-SHA2', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Cryptanalysis/Pixel-Madness-86', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Cryptanalysis/Shift-cipher', LF will be replaced by CRLF the next time Git touches it
+2023-08-16 20:27:19.753 [info] > git config --get commit.template [331ms]
+2023-08-16 20:27:21.313 [info] > git show --textconv :Cryptanalysis/Hash-SHA2 [1384ms]
+2023-08-16 20:27:21.314 [info] > git show --textconv :Cryptanalysis/Hash-Message-Digest-5 [1216ms]
+2023-08-16 20:27:21.317 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [1720ms]
+2023-08-16 20:27:21.385 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\Hash-Message-Digest-5 [1184ms]
+2023-08-16 20:27:21.458 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\Hash-SHA2 [1436ms]
+2023-08-16 20:27:21.568 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty-message [1844ms]
+2023-08-16 20:27:21.568 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-08-16 20:27:21.819 [info] > git show --textconv :Cryptanalysis/File-PKZIP [1550ms]
+2023-08-16 20:27:21.820 [info] > git show --textconv :Cryptanalysis/File-Insecure-storage-1 [1379ms]
+2023-08-16 20:27:21.822 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\File-PKZIP [1469ms]
+2023-08-16 20:27:22.150 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\File-Insecure-storage-1 [1635ms]
+2023-08-16 20:27:22.253 [info] > git show --textconv :Cryptanalysis/Encoding-UU [1681ms]
+2023-08-16 20:27:22.405 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\Encoding-UU [1746ms]
+2023-08-16 20:27:22.525 [info] > git check-ignore -v -z --stdin [1222ms]
+2023-08-16 20:27:22.596 [info] > git status -z -uall [1213ms]
+2023-08-16 20:27:23.136 [info] No remotes found in the git config file.
+2023-08-16 20:27:23.137 [info] > git cat-file -s 89f79b820f1fe22db79718b0d948d9c928e5cea8 [1680ms]
+2023-08-16 20:27:23.139 [info] > git cat-file -s 3cb6a47d711a2102bd62eb88d9d103e5558069c9 [1574ms]
+2023-08-16 20:27:23.360 [info] > git config --get-all user.name [1546ms]
+2023-08-16 20:27:23.446 [info] > git cat-file -s 3ee42b7dbacf1aee161aeeaa2e19805222f37100 [1418ms]
+2023-08-16 20:27:23.450 [info] > git cat-file -s 8fce2f2c4f6f675bcbcce7627b1c3bfaea07bbac [1197ms]
+2023-08-16 20:27:23.565 [info] No remotes found in the git config file.
+2023-08-16 20:27:23.994 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [859ms]
+2023-08-16 20:27:23.994 [info] > git config --get commit.template [1317ms]
+2023-08-16 20:27:23.996 [info] > git cat-file -s b622b1c4e5c77cbffbae4a5161cba902fad3bb4e [1502ms]
+2023-08-16 20:27:24.343 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\Hash-Message-Digest-5 [1086ms]
+2023-08-16 20:27:24.470 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\Hash-SHA2 [1113ms]
+2023-08-16 20:27:24.549 [info] > git config --get commit.template [1104ms]
+2023-08-16 20:27:24.641 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [1077ms]
+2023-08-16 20:27:24.828 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\File-PKZIP [1193ms]
+2023-08-16 20:27:25.125 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\File-Insecure-storage-1 [1356ms]
+2023-08-16 20:27:25.217 [info] > git check-ignore -v -z --stdin [1225ms]
+2023-08-16 20:27:25.319 [info] > git ls-files --stage -- C:\Users\Jose Figueroa\Downloads\root-me-4-master\Cryptanalysis\Encoding-UU [1079ms]
+2023-08-16 20:27:25.418 [info] > git cat-file -s 89f79b820f1fe22db79718b0d948d9c928e5cea8 [1002ms]
+2023-08-16 20:27:25.491 [info] > git cat-file -s 3cb6a47d711a2102bd62eb88d9d103e5558069c9 [944ms]
+2023-08-16 20:27:25.544 [info] > git status -z -uall [717ms]
+2023-08-16 20:27:25.607 [info] > git cat-file -s 3ee42b7dbacf1aee161aeeaa2e19805222f37100 [515ms]
+2023-08-16 20:27:25.708 [info] > git cat-file -s 8fce2f2c4f6f675bcbcce7627b1c3bfaea07bbac [526ms]
+2023-08-16 20:27:25.768 [info] > git cat-file -s b622b1c4e5c77cbffbae4a5161cba902fad3bb4e [357ms]
+2023-08-16 20:27:27.738 [info] > git -c user.useConfigOnly=true commit --quiet [151ms]
+2023-08-16 20:27:27.738 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-08-16 20:27:27.951 [info] > git config --get-all user.name [167ms]
+2023-08-16 20:27:28.055 [info] No remotes found in the git config file.
+2023-08-16 20:27:28.121 [info] > git config --get commit.template [121ms]
+2023-08-16 20:27:28.221 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [166ms]
+2023-08-16 20:27:28.387 [info] > git status -z -uall [124ms]
+2023-08-16 20:27:41.938 [info] > git -c user.useConfigOnly=true commit --quiet [170ms]
+2023-08-16 20:27:41.938 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-08-16 20:27:42.140 [info] > git config --get-all user.name [155ms]
+2023-08-16 20:27:42.248 [info] No remotes found in the git config file.
+2023-08-16 20:27:42.333 [info] > git config --get commit.template [152ms]
+2023-08-16 20:27:42.415 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [168ms]
+2023-08-16 20:27:42.601 [info] > git status -z -uall [144ms]
